@@ -49,8 +49,6 @@ venv.bak/
 .env.*.local
 
 # API Keys and Secrets
-config.py
-!config.py.example
 *.key
 *.pem
 secrets/
