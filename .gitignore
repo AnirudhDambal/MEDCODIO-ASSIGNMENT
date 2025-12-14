@@ -68,12 +68,13 @@ secrets/
 wandb/
 
 # Vector Database
-vector_db/*.pkl
-!vector_db/.gitkeep
+**/vector_db/*.pkl
+!**/vector_db/.gitkeep
 
 # Output files
-output/*.json
-!output/.gitkeep
+**/output/*.json
+!**/output/.gitkeep
+!**/output/.gitkeep
 
 # Logs
 *.log
