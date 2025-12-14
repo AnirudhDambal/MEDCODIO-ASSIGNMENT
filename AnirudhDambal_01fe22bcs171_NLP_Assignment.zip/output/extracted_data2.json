@@ -1,0 +1,38 @@
+{
+  "Clinical Terms": [
+    "Colon cancer screening",
+    "Hemorrhoids",
+    "Polyp",
+    "Sessile Polyp",
+    "Cold Snare"
+  ],
+  "Anatomical Locations": [
+    "Anal Canal",
+    "Rectum",
+    "Sigmoid Colon",
+    "Descending Colon",
+    "Splenic Flexure",
+    "Transverse Colon",
+    "Hepatic Flexure",
+    "Ascending Colon",
+    "Cecum",
+    "Terminal Ileum"
+  ],
+  "Diagnosis": [
+    "Colon cancer screening",
+    "Hemorrhoids, unspecified (without mention of degree)"
+  ],
+  "Procedures": [
+    "Colonoscopy",
+    "Polyp completely removed and retrieved",
+    "Cold Snare polypectomy"
+  ],
+  "ICD-10": [
+    "K64.9",
+    "Z12.11"
+  ],
+  "CPT": [
+    "45385"
+  ],
+  "HCPCS": []
+}

@@ -1,0 +1,127 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# API Keys and Secrets
+config.py
+!config.py.example
+*.key
+*.pem
+secrets/
+
+# Machine Learning / Data Science
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.model
+*.pt
+*.pth
+*.ckpt
+.mlflow/
+wandb/
+
+# Vector Database
+vector_db/*.pkl
+!vector_db/.gitkeep
+
+# Output files
+output/*.json
+!output/.gitkeep
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# pytest
+.pytest_cache/
+.tox/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Specific to this project
+# Keep example outputs but ignore generated ones
+output/extracted_data*.json
+!output/extracted_data_example.json
+
+# Keep vector DB structure but not the large pickle files
+vector_db/
+!vector_db/.gitkeep
+

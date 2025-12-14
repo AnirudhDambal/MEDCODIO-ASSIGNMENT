@@ -1,0 +1,66 @@
+{
+  "Clinical Terms": [
+    "Rectal bleeding",
+    "Ulcer of anus and rectum",
+    "Other hemorrhoids",
+    "Hemorrhage of anus and rectum",
+    "blood pressure",
+    "pulse",
+    "oxygen saturations",
+    "Prep",
+    "washes",
+    "suctioning",
+    "visualization of mucosa",
+    "gas insufflation",
+    "gas removal",
+    "retroflexion",
+    "lumen",
+    "bowel preparation",
+    "BBPS",
+    "Boston Bowel Preparation Scale",
+    "localized erosion",
+    "proctitis",
+    "biopsies",
+    "cold forceps",
+    "histology",
+    "blood loss",
+    "Internal hemorrhoids",
+    "hemorrhoids",
+    "erosion",
+    "Last colonoscopy 3 years ago"
+  ],
+  "Anatomical Locations": [
+    "anus",
+    "rectum",
+    "cecum",
+    "appendiceal orifice",
+    "ileocecal valve",
+    "Right Colon",
+    "Transverse Colon",
+    "Left Colon",
+    "distal rectum",
+    "anal verge"
+  ],
+  "Diagnosis": [
+    "Ulcer of anus and rectum",
+    "Other hemorrhoids",
+    "Hemorrhage of anus and rectum",
+    "Rectal bleeding",
+    "A single erosion in the distal rectum",
+    "Internal hemorrhoids"
+  ],
+  "Procedures": [
+    "Colonoscopy",
+    "Biopsies",
+    "Colonoscopy, flexible; with biopsy, single or multiple"
+  ],
+  "ICD-10": [
+    "K64.8",
+    "K62.5",
+    "K62.6"
+  ],
+  "CPT": [
+    "45380"
+  ],
+  "HCPCS": []
+}

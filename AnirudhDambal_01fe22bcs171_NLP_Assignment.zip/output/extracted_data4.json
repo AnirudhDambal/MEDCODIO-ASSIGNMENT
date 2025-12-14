@@ -1,0 +1,24 @@
+{
+  "Clinical Terms": [
+    "Complications"
+  ],
+  "Anatomical Locations": [],
+  "Diagnosis": [
+    "Chest pain, unspecified",
+    "Early satiety",
+    "Nausea",
+    "Other constipation"
+  ],
+  "Procedures": [
+    "Intravenous medication administration (Lidocaine, Propofol, Lactated Ringer's)",
+    "Monitored Anesthesia Care (MAC)"
+  ],
+  "ICD-10": [
+    "R07.89",
+    "R10.11",
+    "K29.70",
+    "R07.9"
+  ],
+  "CPT": [],
+  "HCPCS": []
+}

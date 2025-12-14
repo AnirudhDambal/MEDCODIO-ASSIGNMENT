@@ -1,0 +1,44 @@
+{
+  "Clinical Terms": [
+    "colon polyps",
+    "Internal hemorrhoids",
+    "Diverticulosis",
+    "Monitored Anesthesia Care",
+    "Lactated Ringers",
+    "Lidocaine HCI",
+    "Propofol",
+    "melanosis coli",
+    "sigmoid diverticulosis"
+  ],
+  "Anatomical Locations": [
+    "rectum",
+    "cecum",
+    "ileocecal valve",
+    "triradiate fold",
+    "appendiceal orifice",
+    "proximal colon",
+    "sigmoid colon"
+  ],
+  "Diagnosis": [
+    "History of colon polyps",
+    "Personal history of colonic polyps",
+    "Internal hemorrhoids",
+    "Diverticulosis",
+    "Melanosis coli",
+    "Moderate sigmoid diverticulosis"
+  ],
+  "Procedures": [
+    "Colonoscopy",
+    "Monitored Anesthesia Care",
+    "Rectal exam"
+  ],
+  "ICD-10": [
+    "K64.8",
+    "Z86.0100",
+    "K57.90"
+  ],
+  "CPT": [
+    "45378"
+  ],
+  "HCPCS": []
+}
